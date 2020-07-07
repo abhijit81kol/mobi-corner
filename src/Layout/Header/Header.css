@@ -1,0 +1,10 @@
+.top-header {
+  padding: 0.75rem 2rem;
+  background-color: #fff;
+  display: flex;
+}
+.top-header .branding,
+.top-header .search,
+.top-header .user-navigation {
+  background-color: #fff;
+}

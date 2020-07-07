@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import Layout from "./Layout/Layout";
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to MobiCorner</h1>
+      <Layout />
     </div>
   );
 }
